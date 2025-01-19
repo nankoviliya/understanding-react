@@ -1,0 +1,1 @@
+Recursion is defined as a process which calls itself directly or indirectly and the corresponding function is called a recursive function.
